@@ -1,2 +1,2 @@
 # hello-world
-Test project to set up GIT
+Hello world from GIT.
